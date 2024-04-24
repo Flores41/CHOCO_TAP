@@ -1,16 +1,4 @@
-# ui_02
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="https://github.com/Flores41/CHOCO_TAP/assets/105821178/77ed5437-d6a1-44f0-bf4e-0492f3b024aa" width="400" alt="Screenshot_1713995953">
+  <img src="https://github.com/Flores41/CHOCO_TAP/assets/105821178/de6d3d8c-7f71-4b3d-a019-cd10f7093cf5" width="400" alt="Screenshot_1713995943">
+</p>
